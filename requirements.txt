@@ -1,0 +1,6 @@
+pandas
+nunmpy
+scikit-learn
+wbgapi
+matplotlib
+seaborn
