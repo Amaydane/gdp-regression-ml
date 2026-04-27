@@ -1,0 +1,21 @@
+
+# MLflow & модели
+mlruns/
+models/
+*.joblib
+*.pkl
+*.cbm
+
+# Python & Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+env/
+.env
+
+# Данные и выводы
+data/
+results/
+*.csv
+*.png
